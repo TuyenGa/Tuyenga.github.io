@@ -68,7 +68,7 @@ Mobile, Tablet, Desktop - các thiết bị với nhiều kích cỡ màn hình 
 
 - [http://www.theodinproject.com/courses/web-development-101/lessons/html-css](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
 
-## Bước 8 - Code tốt hơn (Addvanced)
+## Bước 8 - Code tốt hơn (Advanced)
 
 Khi bạn viết codes bạn không muốn tạo ra bất kỳ một lỗi nào. Để viết gọn gàng và sạch sẽ và các lỗi cơ bản trong code được đánh dấu một số thủ tục mà người phát triển website cần phải tuân thủ. Và đây là một số tài nguyên giúp bạn có thể viết code sạch sẽ hơn.
 
