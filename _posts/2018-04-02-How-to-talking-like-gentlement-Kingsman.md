@@ -12,7 +12,7 @@ instant_title: "Live to learn"
 instant_kicker: Live
 ---
 
-Bạn có thể mặc những bộ áo vet sang trọng. Bạn có thể ngồi trên một chiếc xe rollroye đắt tiền. Ai cũng sẽ nghĩ bạn là một quý ông cho đến khi bạn cất lời. Đọc bài viết sau bạn sẽ cải thiện được nhược điểm mà một quý ông Kingsman cần có.
+Bạn có thể mặc những bộ áo vet sang trọng. Bạn có thể ngồi trên một chiếc xe roll Royce đắt tiền. Ai cũng sẽ nghĩ bạn là một quý ông cho đến khi bạn cất lời. Đọc bài viết sau bạn sẽ cải thiện được nhược điểm mà một quý ông Kingsman cần có.
 
 Lưu ý: ở đây tôi chỉ nói về một phần nhỏ trong số chúng ta. Có thể sẽ không có bạn trong này. Không chỉ các quý ông mà các quý bà đều có thể thực hiện những điều này.
 
