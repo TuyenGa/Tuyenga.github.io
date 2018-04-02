@@ -10,6 +10,8 @@ redirect_from:
   - /tutorials/2018/04/02/how-to-talking-like-gentlement-kingsman/
 instant_title: "Live to learn"
 instant_kicker: Live
+preview_image: /assets/posts/liveLearn/2018-04-02-Kingsman-talking.jpg
+featured_image: /assets/posts/liveLearn/2018-04-02-Kingsman-talking.jpg
 ---
 
 Bạn có thể mặc những bộ áo vet sang trọng. Bạn có thể ngồi trên một chiếc xe roll Royce đắt tiền. Ai cũng sẽ nghĩ bạn là một quý ông cho đến khi bạn cất lời. Đọc bài viết sau bạn sẽ cải thiện được nhược điểm mà một quý ông Kingsman cần có.
