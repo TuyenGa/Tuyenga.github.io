@@ -34,13 +34,13 @@ Trong đó $OS là hệ điều hành của bạn, $ARCH là số bit của hệ
 
 Tiếp theo chúng ta sẽ phải dùng lệnh
 
-```
+```cmd
 nano $HOME/.profile
 ```
 
 Thêm đoạn code sau vào dưới cuối của file .profile
 
-```
+```cmd
 export GOROOT=/usr/local/go
 export GOPATH="$HOME/.dotfiles/go-lang"
 export GOBIN=$GOPATH/bin
