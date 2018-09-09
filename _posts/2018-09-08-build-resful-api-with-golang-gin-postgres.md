@@ -164,4 +164,4 @@ func GetPeople(c *gin.Context) {
 }
 ```
 
-Như vậy về cơ bản đã hoàn thành xong Connect database và tạo ra được controller cho project. [Xem tiếp phần sau]() để hoàn thành project nhé.
+Như vậy về cơ bản đã hoàn thành xong Connect database và tạo ra được controller cho project. [Xem tiếp phần sau](https://tuyenga.github.io/laptrinh/2018/09/09/build-resful-api-with-golang-gin-postgres-part-2) để hoàn thành project nhé.
