@@ -129,7 +129,7 @@ Tạo ra một file controller.go trong thư mục controllers. File này có t�
 package controllers
 
 import (
-  "gin-app/models" // khai báo models trong database để sử dụng các kiểu dữ liệu và kết nối data. gin-app là modules mà bạn cài đặt trong go.mod.
+  "gin-app/models" // khai báo models trong controller để sử dụng các kiểu dữ liệu và kết nối database. gin-app là modules mà bạn cài đặt trong go.mod.
   "github.com/gin-gonic/gin"
   "net/http"
   "strconv"
