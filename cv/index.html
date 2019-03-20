@@ -1,0 +1,232 @@
+{
+	"title": "Curriculum vitæ",
+	"titleclass": "noprint",
+	"rotate": false
+}
+---
+{{ importhtml "../inc/top.source" }}
+
+<h1 class="printname onlyprint">Peter Bourgon</h1>
+<p class="byline onlyprint">
+  <a href="mailto:peter@bourgon.org">peter@bourgon.org</a> · <a href="https://peter.bourgon.org/cv">https://peter.bourgon.org/cv</a>
+</p>
+
+<div class="cv-preamble">
+<p>
+I'm a distributed systems and infrastructure engineer with more than 15 years of
+experience building large, fast, and reliable software. I'm an expert Go
+programmer, with multiple large-scale projects to my credit, strong ties to the
+community, and a commitment to education and mentoring.
+Outside of my professional work, I like to stay active in the open-source community.
+Selected projects include <a href="https://gokit.io">Go kit</a>, a sort of standard library for microservices in Go;
+ and <a href="/ok-log">OK Log</a>, a distributed log management system.
+</p>
+
+<p>
+My areas of interest include
+ CRDTs and coördination-free systems,
+ observability,
+ microservices and dev/ops tools, and
+ Go best practices, including mentoring and training.
+Some selected talks and articles include:
+<ul><li><a href="/ok-log">OK Log</a>, a detailed piece focusing on motivation, design, and optimization;</li>
+ <li><a href="https://www.youtube.com/watch?v=ha8gdZ27wMo">Evolutionary Optimization</a>, a Go-focused talk on the same subject, at GopherCon;</li>
+ <li><a href="https://www.youtube.com/watch?v=NX0sHF8ZZgw">Applied Go kit</a> at KubeCon Europe; and</li>
+ <li><a href="/blog/2017/02/21/metrics-tracing-and-logging.html">Metrics, tracing, and logging</a> disambiguation and analysis.</li></ul>
+</p>
+
+<p>
+<span class="noprint">For more of my values, see <a href="/about">my About page</a>.
+For all of my talks and workshops, see <a href="/talks">my Talks page</a>.
+For my work history and education, see below.
+For anything else, you can e-mail me, at <a href="mailto:peter@bourgon.org">peter@bourgon.org</a>.</span>
+</p>
+</div>
+
+<table class="cv">
+
+<tr>
+<td class="when"><p>2017 &ndash; now</p></td>
+<td class="where"><p><strong><a href="https://fastly.com">Fastly</a></strong>, Berlin/San Francisco</p></td>
+</tr>
+<tr>
+<td class="what" colspan=2>
+<p>
+
+On the Data team, I maintained and hardened the infrastructure that powers
+billing, real-time and historical stats, and customer logging.
+
+</p>
+<p>
+
+On the Production Engineering team, I led a migration of the company from a 
+heterogeneous mix of monitoring tools to <a href="https://prometheus.io">Prometheus</a>.
+Most of my work was focused on developer outreach, embedding in teams to teach
+best practices around instrumentation, dashboards, and alerts.
+
+</p>
+<p>
+
+I'm currently working on a research project related to distributed state in the
+Office of the CTO.
+
+</p>
+</td>
+</tr>
+
+
+<tr>
+<td class="when"><p>2015 &ndash; 2017</p></td>
+<td class="where"><p><strong><a href="http://weave.works">Weaveworks</a></strong>, Berlin/London</p></td>
+</tr>
+<tr>
+<td class="what" colspan=2>
+<p>
+
+Weaveworks acquired my infrastructure mapping and monitoring side project, which became
+ <a href="https://github.com/weaveworks/scope">Weave Scope</a>.
+At Weaveworks I continued to develop Scope,
+ bootstrapped <a href="https://cloud.weave.works">Weave Cloud</a> on AWS with Kubernetes,
+ worked on the gossip and CRDT library <a href="https://github.com/weaveworks/mesh">Weave Mesh</a>,
+ and developed the change management tool <a href="https://github.com/weaveworks/flux">Weave Flux</a>.
+
+</p>
+</td>
+</tr>
+
+
+<tr>
+<td class="when"><p>2012 &ndash; 2015</p></td>
+<td class="where"><p><strong><a href="http://soundcloud.com">SoundCloud</a></strong>, Berlin</p></td>
+</tr>
+<tr>
+<td class="what" colspan=2>
+<p>
+
+On the Discovery team, I was the lead architect and engineer for search.
+I migrated us from Solr to Elasticsearch, rebuilt the indexing and query pipelines,
+ and integrated machine learning models for ranking and relevance.
+I focused on latency KPIs, operational (dev/ops) simplicity, and scalability.
+That infrastructure continues to power the search product today.
+
+</p>
+<p>
+
+On the Activities team, I rebuilt the infrastructure that powers most of SoundCloud's event feeds.
+At the core is <a href="https://github.com/soundcloud/roshi">Roshi</a>, an open-source, CRDT-based distributed system for events.
+Several major product features, including the SoundCloud stream, were powered by Roshi.
+
+</p>
+<p>
+
+On the Infrastructure team, I developed a next-generation containerized application platform based on
+ <a href="http://www.cs.berkeley.edu/~rxin/db-papers/WarehouseScaleComputing.pdf">The Datacenter as a Computer</a>.
+I was the technical lead for the complete ecosystem:
+ a container supervisor, a cluster scheduler, a service discovery system based on Consul,
+ and the necessary glue components for them to interact.
+(Full disclosure: the project was canceled.)
+
+</p>
+</td>
+</tr>
+
+<tr>
+<td class="when"><p>2010 &ndash; 2012</p></td>
+<td class="where"><p><strong>IPTEGO</strong>, Berlin</p></td>
+</tr>
+<tr>
+<td class="what" colspan=2>
+<p>
+
+IPTEGO was a small company that made a network monitoring product called PALLADION.
+I contributed several protocol analyzers, including RTCP, MEGACO, DIAMETER, and RTP.
+In time, I moved to the core technology group, and built several distributed systems
+ that scaled the product to continent-sized installations at major telecoms.
+Eventually, I became a product manager for that group,
+ and (among other things) was responsible for build and release management.
+
+</p>
+<p>
+
+I left when IPTEGO was acquired by Acme Packet.
+Around a year later, Acme Packet was acquired by Oracle.
+
+</p>
+</td>
+</tr>
+
+<tr>
+<td class="when"><p>2009 &ndash; 2010</p></td>
+<td class="where"><p>Sabbatical, Johannesburg</p></td>
+</tr>
+<tr>
+<td class="what" colspan=2>
+<p>
+
+I spent a year in Johannesburg, South Africa, volunteering for several NGOs,
+ and contributing to open-source and personal projects.
+
+</p>
+</td>
+</tr>
+
+<tr>
+<td class="when"><p>2006 &ndash; 2009</p></td>
+<td class="where"><p><strong><a href="http://www.bloomberg.com">Bloomberg</a></strong>, New York City</p></td>
+</tr>
+<tr>
+<td class="what" colspan=2>
+<p>
+
+Bloomberg is an information services company, focusing on financial data.
+I was an engineer on the BLAW team, which provided research tools for corporate lawyers.
+I focused on BBLS, a federated (distributed) legal document search engine.
+I scaled BBLS from dozens to thousands of concurrent users,
+ and from tens- to hundreds-of-millions of documents.
+My job involved defining and maintaining strict SLAs, system health monitoring,
+ and code quality control measures.
+
+</p>
+</td>
+</tr>
+
+<tr>
+<td class="when"><p>2002 &ndash; 2006</p></td>
+<td class="where"><p><strong><a href="http://www.adtran.com">ADTRAN</a></strong>, Huntsville</p></td>
+</tr>
+<tr>
+<td class="what" colspan=2>
+<p>
+
+ADTRAN manufactures network equipment for carriers and the enterprise.
+I was a co-op student engineer (like a recurring internship) on several different teams.
+I implemented SNMP and TFTP features on embedded-class hardware,
+ and developed multiple new features for ADTRAN's routers and switches,
+ with an emphasis on security and VPN technologies.
+
+</p>
+</td>
+</tr>
+
+<tr>
+<td class="when"><p>2001 &ndash; 2006</p></td>
+<td class="where"><p><strong><a href="http://www.clemson.edu">Clemson University</a></strong>, Clemson</p></td>
+</tr>
+<tr>
+<td class="what" colspan=2>
+<p>
+
+I earned a Bachelor of Science (B.S.) in Computer Engineering,
+ which is a mix of pure Computer Science and Electrical Engineering.
+I emphasized software engineering and network (distributed) programming.
+I graduated with honors, and a minor in mathematics.
+
+</p>
+</td>
+</tr>
+</table>
+
+<br/>
+<br/>
+
+{{ importhtml "../inc/bottom.source" }}

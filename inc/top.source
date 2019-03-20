@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>{{ if .prefixtitle }}Peter Bourgon · {{ end }}{{ .title }}</title>
+{{ importhtml "parts/meta.source" }}
+{{ importhtml "parts/csslinks.source" }}
+{{ importhtml "parts/ga.source" }}
+</head>
+<body>
+<div id="c">
+
+{{ importhtml "parts/header.source" }}
+
+{{ if .showtitle }}<h1{{ if .titleclass }} class="{{ .titleclass }}"{{ end }}>{{ .title }}</h1>{{ end }}

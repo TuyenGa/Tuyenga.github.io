@@ -1,3 +1,0 @@
-Start waiting
-Perform after 3.0 seconds
-End waiting

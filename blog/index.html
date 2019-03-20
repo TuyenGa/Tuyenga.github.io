@@ -1,0 +1,27 @@
+{ "entry": false,
+  "title": "Blog entries",
+  "metadescription": "Short-form articles, a.k.a. 'blogs', by Peter." }
+---
+{{ importhtml "../inc/top.source" }}
+
+<img src="grainy.jpg" height="180" width="450" alt="Me, tapping away at a keyboard" />
+
+<!--<ul>-->
+{{ range sorted .files.blog }}
+	{{ if .entry }}
+		<!--<li>-->
+			<p class="bloglink">{{ if .date }}{{ .date }} &mdash;{{ end }}
+			<a href="{{ .url }}">
+				{{ if .title }}
+					{{ .title }}
+				{{ else }}
+					<em>untitled</em>
+				{{ end }}
+			</a></p>
+		<!--</li>-->
+	{{ end }}
+{{ end }}
+<!--</ul>-->
+
+{{ importhtml "../inc/bottom.source" }}
+
