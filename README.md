@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dasper
 Dasper is a [Jekyll](http://jekyllrb.com/) theme inspired by [Ghost](https://ghost.org/)'s default theme [Casper](https://demo.ghost.io/) and also [Jasper](https://biomadeira.github.io/jasper/) & [Kasper](http://rosario.io/)
 
@@ -18,3 +19,7 @@ Dasper is a [Jekyll](http://jekyllrb.com/) theme inspired by [Ghost](https://gho
 
 ## Copyright & License
 Copyright (c) 2016 - Released under the MIT License.
+=======
+# Tuyenga.github.io
+Blog chia sẻ kiến thức và kinh nghiệm làm việc.
+>>>>>>> 4f6a4f5418c65efcfdb122379ee3f3cb8b91be85
