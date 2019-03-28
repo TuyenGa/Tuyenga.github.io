@@ -1,7 +1,0 @@
-{{ importhtml "../inc/top.source" }}
-
-<strong class="date">{{ .date }}</strong>
-
-{{ .content }}
-
-{{ importhtml "../inc/bottom.source" }}

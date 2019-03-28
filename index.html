@@ -1,25 +1,59 @@
-{
-	"title": "Peter Bourgon",
-	"prefixtitle": false,
-	"showtitle": false
-}
 ---
-{{ importhtml "inc/top.source" }}
+layout: default
+---
 
-<img src="/desert.gif" alt="Peter" width="400" height="158"/>
+<!-- Don't show pagination bar in homepage -->
+{% if paginator.page > 1 %}
 
-<p>
-GitHub <a href="https://github.com/peterbourgon">peterbourgon</a><br/>
-Twitter <a href="https://twitter.com/peterbourgon">@peterbourgon</a><br/>
-Keybase <a href="https://keybase.io/peterbourgon">peterbourgon</a><br/>
-</p>
+	<!-- Include pagination bar -->
+	{% include pagination.html section="top" %}
 
-<p>
-You might be interested in…<br/>
-&bull; <a href="/observability-the-hard-parts/">Observability: the hard parts</a><br/>
-&bull; <a href="/go-for-industrial-programming/">Go for Industrial Programming</a><br/>
-&bull; <a href="/ok-log/">OK Log</a><br/>
-&bull; <a href="/postmodernism/">Postmodernism</a><br/>
-</p>
+{% endif %}
 
-{{ importhtml "inc/bottom.source" }}
+<!-- Loop for posts by paginator -->
+{% for post in paginator.posts %}
+
+	<!-- Article -->
+	<article>
+
+		<!-- Article title -->
+		<a href="{{ site.baseurl }}{{ post.url }}" class="h1">{{ post.title }}</a>
+
+			<!-- If article has a cover photo -->
+			{% if post.coverPhoto %}
+
+				<!-- Article image with aspect ratio -->
+				<a href="{{ site.baseurl }}{{ post.url }}" class="ar-container">
+					<span class="ar-content" style="background-image: url({{ post.coverPhoto }});"></span>
+				</a><!-- .ar-container -->
+
+			{% endif %}
+
+		<!-- Article pre description -->
+    <section class="max-height">{{ post.description }}</section>
+
+		<!-- Article date & article continue reading button container -->
+		<div class="article__bottom">
+
+			<!-- Article date -->
+			<span class="article__date">
+        {{ post.date | date: "%-d" }} tháng {{ post.date | date: "%-m" }}, {{ post.date | date: "%Y" }}
+			</span>
+
+			<!-- Article continue reading button -->
+			<a class="article__button" href="{{ site.baseurl }}{{ post.url }}">Đọc thêm</a>
+
+		</div><!-- .article__bottom -->
+
+	</article><!-- article -->
+
+{% endfor %}
+
+<!-- Include pagination bar -->
+{% include pagination.html section="bottom" %}
+
+<!-- addthis -->
+{% if site.addthisId != "" %}
+  <!-- Go to www.addthis.com/dashboard to customize your tools -->
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid={{ site.addthisId }}"></script>
+{% endif %}
