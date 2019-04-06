@@ -1,25 +1,23 @@
-<<<<<<< HEAD
-# Dasper
-Dasper is a [Jekyll](http://jekyllrb.com/) theme inspired by [Ghost](https://ghost.org/)'s default theme [Casper](https://demo.ghost.io/) and also [Jasper](https://biomadeira.github.io/jasper/) & [Kasper](http://rosario.io/)
+# Mediumish - Jekyll Theme
 
-## Live demo
-[ozgrozer.com](http://ozgrozer.com)
+[Live Demo](https://wowthemesnet.github.io/mediumish-theme-jekyll/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/) &nbsp; | &nbsp; [Buy me a coffee](https://www.wowthemes.net/donate/)
 
-## Includes
-- Pagination
-- 404 page
-- Fastclick([@ftlabs](https://github.com/ftlabs/fastclick))
-- Syntax highlighting([@PrismJS](https://github.com/PrismJS/prism))
-- Sitemap generator([@kinnetica](https://github.com/kinnetica/jekyll-plugins))
-- RSS generator([@agelber](https://github.com/agelber/jekyll-rss))
-- HTML compressor(a simple [plugin](https://github.com/ozgrozer/dasper/blob/master/_plugins/htmlCompressor.rb) written by me)
-- Addthis sharing buttons
-- Disquss comments
-- Google analytics tracking
+![mediumish](assets/images/mediumish-jekyll-template.png)
 
-## Copyright & License
-Copyright (c) 2016 - Released under the MIT License.
-=======
-# Tuyenga.github.io
-Blog chia sẻ kiến thức và kinh nghiệm làm việc.
->>>>>>> 4f6a4f5418c65efcfdb122379ee3f3cb8b91be85
+
+### Copyright
+
+Copyright (C) 2019 Sal, https://www.wowthemes.net
+
+**Mediumish for Jekyll** is designed and developed by [Sal](https://www.wowthemes.net) and it is *free* under MIT license. 
+
+<a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+
+### Contribute
+
+1. [Fork the repo](https://github.com/wowthemesnet/mediumish-theme-jekyll).
+2. Clone a copy of your fork on your local
+3. Create a branch off of master and give it a meaningful name (e.g. my-new-mediumish-feature).
+4. Make necessary changes, commit, push and open a pull request on GitHub.
+
+Thank you!

@@ -1,64 +1,64 @@
-# Website details
-name: Vương Quang Tuyên
-description: Chia sẻ là học tập.
-url: https://tuyenga.github.io
-author:
-  name: Lucas Vương
-  fullname: Vương Quang Tuyên
-  email: Vuongquangtuyendz@gmail.com
-  github: tuyenga
-  twitter: '@sealaunchiris'
-  linkedin: Vuongquangtuyen
-  bio: Đam mê là điều tạo nên những sản phẩm tuyệt vời chúng giúp nhiều người nâng cao cuộc sống của họ.
+# Site
+name: "Vuong Tuyen"
+title: "tuyen.vuong"
+description: "My personal blog writing about my life, my career, and my goal in the future. "
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+baseurl: /
+google_analytics: 'UA-137800441-1'
+# disqus: 'demowebsite'
+# mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+include: ["_pages"]
+permalink: /:title/
 
-twitter:
-  username: sealaunchiris
+# Authors
+authors:
+  tuyen:
+    name: Tuyen
+    display_name: Vuong Tuyen
+    avatar: 'assets/images/avatar.png'
+    gravatar: 2298dfedff6d974d1394901358038f49
+    email: tuyenvq.cntt@gmail.com
+    web: https://tuyenga.github.io
+    twitter: https://twitter.com/tuyenvq
+    description: "I'm a fullstack developer. I hope my website share for you many knowledge. Life is beauty."
 
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
 markdown: kramdown
+
 kramdown:
-  input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)
-  hard_wrap: false
+  input: GFM
   syntax_highlighter: rouge
   syntax_highlighter_opts:
-    span:
-      line_numbers: false
     block:
       line_numbers: true
-      start_line: 1
-highlighter: rouge
-timezone: Asia/Ho_Chi_Minh
-repository: Tuyenga/Tuyenga.github.io
 
-paginate: 10
-paginateLabel: page
-paginate_path: 'page/:num'
-permalink: /:categories/:year/:month/:day/:title
-baseurl:
+# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
+adsense: "disabled"
+adsense-data-ad-client: "ca-pub-3412143450191416"
+adsense-data-ad-slot: "1363087678"
 
-# Includes
-addthisId: 'ra-59232f96e44fd867'
-disqusShortname: 'Vuongquangtuyen'
-googleAnalyticsId: 'UA-99596857-1'
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "enabled"
 
-# Search engine verifications
-bing: ''
-yandex: ''
-google: ''
-
-#Sitemap
-sitemap:
-  file: '/sitemap.xml'
-  exclude:
-    - '/404.html'
-  include_posts:
-    - '/index.html'
-  change_frequency_name: 'daily'
-  priority_name: '1.00'
-
-gems:
-  - github-pages
-  - jekyll-github-metadata
-  - jekyll-paginate
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-redirect-from
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]

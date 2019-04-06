@@ -1,59 +1,61 @@
 ---
 layout: default
+title: Home
 ---
 
-<!-- Don't show pagination bar in homepage -->
-{% if paginator.page > 1 %}
+{% if page.url == "/" %}
 
-	<!-- Include pagination bar -->
-	{% include pagination.html section="top" %}
+<!-- Featured
+================================================== -->
+<section class="featured-posts">
+    <div class="section-title">
+        <h2><span>Featured</span></h2>
+    </div>
+    <div class="row">
+
+    {% for post in site.posts %}
+
+        {% if post.featured == true %}
+
+            {% include featuredbox.html %}
+
+        {% endif %}
+
+    {% endfor %}
+
+    </div>
+</section>
 
 {% endif %}
 
-<!-- Loop for posts by paginator -->
-{% for post in paginator.posts %}
+<!-- Posts Index
+================================================== -->
+<section class="recent-posts">
 
-	<!-- Article -->
-	<article>
+    <div class="section-title">
 
-		<!-- Article title -->
-		<a href="{{ site.baseurl }}{{ post.url }}" class="h1">{{ post.title }}</a>
+        <h2><span>All Stories</span></h2>
 
-			<!-- If article has a cover photo -->
-			{% if post.coverPhoto %}
+    </div>
 
-				<!-- Article image with aspect ratio -->
-				<a href="{{ site.baseurl }}{{ post.url }}" class="ar-container">
-					<span class="ar-content" style="background-image: url({{ post.coverPhoto }});"></span>
-				</a><!-- .ar-container -->
+    <div class="row listrecent">
 
-			{% endif %}
+        {% for post in paginator.posts %}
 
-		<!-- Article pre description -->
-    <section class="max-height">{{ post.description }}</section>
+        {% include postbox.html %}
 
-		<!-- Article date & article continue reading button container -->
-		<div class="article__bottom">
+        {% endfor %}
 
-			<!-- Article date -->
-			<span class="article__date">
-        {{ post.date | date: "%-d" }} tháng {{ post.date | date: "%-m" }}, {{ post.date | date: "%Y" }}
-			</span>
+    </div>
 
-			<!-- Article continue reading button -->
-			<a class="article__button" href="{{ site.baseurl }}{{ post.url }}">Đọc thêm</a>
+</section>
 
-		</div><!-- .article__bottom -->
+<!-- Pagination
+================================================== -->
+<div class="bottompagination">
+<div class="pointerup"><i class="fa fa-caret-up"></i></div>
+<span class="navigation" role="navigation">
+    {% include pagination.html %}
+</span>
+</div>
 
-	</article><!-- article -->
-
-{% endfor %}
-
-<!-- Include pagination bar -->
-{% include pagination.html section="bottom" %}
-
-<!-- addthis -->
-{% if site.addthisId != "" %}
-  <!-- Go to www.addthis.com/dashboard to customize your tools -->
-  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid={{ site.addthisId }}"></script>
-{% endif %}
