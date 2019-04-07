@@ -13,14 +13,15 @@ permalink: /:title/
 
 # Authors
 authors:
-  name: Tuyen
-  display_name: Vuong Tuyen
-  avatar: 'assets/images/avatar.png'
-  gravatar: 2298dfedff6d974d1394901358038f49
-  email: tuyenvq.cntt@gmail.com
-  web: https://tuyenga.github.io
-  twitter: https://twitter.com/tuyenvq
-  description: "I'm a fullstack developer. I hope my website share for you many knowledge. Life is beauty."
+  tuyen:
+    name: Tuyen
+    display_name: Vuong Tuyen
+    avatar: 'assets/images/avatar.png'
+    gravatar: 2298dfedff6d974d1394901358038f49
+    email: tuyenvq.cntt@gmail.com
+    web: https://tuyenga.github.io
+    twitter: https://twitter.com/tuyenvq
+    description: "I'm a fullstack developer. I hope my website share for you many knowledge. Life is beauty."
 
 # Plugins
 plugins:
