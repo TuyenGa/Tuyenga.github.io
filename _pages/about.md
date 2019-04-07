@@ -8,7 +8,7 @@ comments: false
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p><img class="shadow-lg" src="{{site.baseurl}}/assets/images/avatar.jpg" alt="avatar" /></p>
+<p><img class="shadow-lg" src="{{site.baseurl}}/assets/images/avatar.jpg" alt="avatar" width="200"/></p>
 
 <p class="lead">I'm Tuyen, a software engineer living in HaNoi, Viet Nam. I forcus on distributed systems in the <a href="https://golang.org/">Go</a> programing language.</p>
 
