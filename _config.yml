@@ -24,7 +24,7 @@ authors:
     description: "I'm a fullstack developer. I hope my website share for you many knowledge. Life is beauty."
 
 # Plugins
-plugins:
+plugins_dir:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
