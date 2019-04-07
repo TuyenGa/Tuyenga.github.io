@@ -17,6 +17,7 @@ comments: false
 <p class="lead">
     I prefer to write code that soles a specific, tightly-defined problem, rather than code that sloves a class of problems generally. Letter openers, not Swiss Army knives. I believe.
 </p>
+</div>
 
 <div class="col-md-4">
 
