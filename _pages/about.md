@@ -9,7 +9,7 @@ comments: false
 <div class="col-md-8 pr-5">
 
 <p>
-    <img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" />
+    <img src="{{site.baseurl}}/assets/images/avatar.jpg" alt="jekyll template mediumish" />
 <p>
 <p class="lead">
     I'm Tuyen, a software engineer living in HaNoi, Viet Nam. I forcus on distributed systems in the <a href="https://golang.org/">Go</a> programing language.
@@ -28,6 +28,5 @@ comments: false
 
 <p>Thank you for your support! Welcome to my website <a target="_blank" href="https://tuyenga.github.io">Tuyen <i class="fab fa-github"></i></a>.</p>
 
-</div>
 </div>
 </div>
