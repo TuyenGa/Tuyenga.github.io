@@ -4,7 +4,6 @@ title: About Me
 permalink: /about
 comments: false
 ---
-
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
@@ -18,7 +17,9 @@ comments: false
 <p class="lead">
     I prefer to write code that soles a specific, tightly-defined problem, rather than code that sloves a class of problems generally. Letter openers, not Swiss Army knives. I believe.
 </p>
+
 </div>
+
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
