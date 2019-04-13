@@ -2,6 +2,7 @@
 layout: post
 title: "Thái độ làm việc chuyên nghiệp"
 author: tuyen
+comments: true
 categories: [career, professional, life]
 image: assets/images/professional/professional.jpg
 featured: true
