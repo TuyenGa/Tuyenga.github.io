@@ -40,7 +40,7 @@ Học ra học, chơi ra chơi. Có thể nói đây là một trong những k�
 
 Giao tiếp sao cho thành công luôn là một chủ đề mà mọi người luôn tìm kiếm. Nó là chiếc chìa khóa vàng dẫn tới mọi mục tiêu mà bạn có thể đặt ra, với những cá nhân giao tiếp hiệu hả không những giúp họ chiếm được cảm tình của mọi người mà còn giúp họ học được các chia sẻ kinh nghiệm học tập và mở rộng các mối quan hệ. Mở ra những cơ hội thành công.
 
-#### 5 Lập kế hoạch trong công việc và mục tiêu trong cuộc sống
+#### 5. Lập kế hoạch trong công việc và mục tiêu trong cuộc sống
 
 Đây là phẩm chất đầu tiên dễ nhận ra nhất những người chuyên nghiệp. Lập kế hoạch nhằm xác định mục tiêu và trình tự thực hiện công việc cũng như thời gian hoàn thành mỗi bước với nội dung được định sẵn để đạt được mục tiêu. Việc lập kế hoạch và dự tính thời gian hoàn thành thể hiện sự chủ động, có trách nhiệm với công việc và sẽ cố gắng tạo điều kiện để các công việc được hoàn thành đồng bộ.
 
