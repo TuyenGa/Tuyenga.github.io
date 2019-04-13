@@ -50,5 +50,5 @@ Chuyên tâm với công việc, học tập nghiêm túc không có nghĩa là 
 
 ## Kết luận
 
-Để có thái độ, tác phong chuyên nghiệp khi làm việc giúp ta nhanh chóng hướng đến đích của sự thành công thfi ta phải không ngừng chui rèn thói quen, tác phong. Những điều phía trên sẽ giúp bạn vươn tới thành công. Happy coding!
+Để có thái độ, tác phong chuyên nghiệp khi làm việc giúp ta nhanh chóng hướng đến đích của sự thành công thì ta phải không ngừng chui rèn thói quen, tác phong. Những điều phía trên sẽ giúp bạn vươn tới thành công. Happy coding!
 
