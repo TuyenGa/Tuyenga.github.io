@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Chúng ta nên làm gì khi buồn chán?"
+title: "Chúng ta nên làm gì khi Chán đời?"
 author: tuyen
 comments: false
 categories: [life, bored, how]
 image: assets/images/bored/when-bored.jpg
 ---
 
-Buồn chán là một trạng thái tâm lý mà bạn và tôi đang hoặc đã từng gặp phải. Nó khiến cho cơ thể  mệt mỏi, không còn năng lượng để sống và làm việc.
+Chán đời là một trạng thái tâm lý mà bạn và tôi đang hoặc đã từng gặp phải. Nó khiến cho cơ thể  mệt mỏi, không còn năng lượng để sống và làm việc.
 
-#### Buồn chán sinh ra từ đâu?
+#### Chán đời sinh ra từ đâu?
 
 Đã là trạng thái tâm lý thì nó sinh ra từ trong suy nghĩ của bạn :))
 
