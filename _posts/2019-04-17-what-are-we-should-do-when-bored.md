@@ -21,7 +21,7 @@ Chữa bệnh phải bắt được tâm bệnh. Nhưng trước đó phải sơ
 
 #### 1. Quẩy lên !!!
 
-![quay-len]({{ site.baseurl }}//assets/images/bored/quay-len.jpg)
+![quay-len]({{ site.baseurl }}/assets/images/bored/quay-len.jpg)
 
 Cách đơn giản nhất để  bớt buồn đó là đi quẩy thôi. Quẩy ở đây là làm việc gì khiến cho bạn nhanh chóng giảm đi nỗi cô đơn. Cafe chẳng hạn. Đừng đi một mình nhé. Càng đông càng vui hãy để tiếng cười làm bạn quên đi mệt mỏi và những lý do gây ra buồn chán.
 
