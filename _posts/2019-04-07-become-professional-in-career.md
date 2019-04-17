@@ -6,11 +6,12 @@ comments: true
 categories: [career, professional, life]
 image: assets/images/professional/professional.jpg
 featured: true
+hidden: true
 ---
 
 Thái độ làm việc chuyên nghiệp không phải là tố chất tự nhiên mà là sản phẩm của quá trình trải nghiệm, học tập. Nhất là hình thức tự học. Nguyên tắc học tập là phải chủ động, chọn lọc, sáng tạo. Cái gì tốt đẹp thì ta trân trọng ghi nhận, tiếp thu. Cái gì xấu thì cần phải thải loại.
 
-Thái độ làm việc chuyên nghiệp là điều kiện cần cho sự tiến bộ và thành công trong công việc và trong học tập. Nó là sự tổng kết, tạo dựng thói quen trong giải quết công việc sao cho đạt hiệu quả năng xuất và chất lượng cao.
+Đây là điều kiện cần cho sự tiến bộ và thành công trong công việc và trong học tập. Nó là sự tổng kết, tạo dựng thói quen trong giải quết công việc sao cho đạt hiệu quả năng xuất và chất lượng cao.
 
 #### Thái độ làm việc chuyên nghiệp là gì?
 
@@ -18,7 +19,7 @@ Thái độ làm việc chuyên nghiệp là điều kiện cần cho sự tiế
 
 Professional (Chuyên nghiệp) được hiểu đơn giản là chuyên tâm vào nghề nghiệp, công việc. Những người chuyên tâm và tận tâm đối với nghề nghiệp thì chất lượng và hiệu quả làm việc của họ thường rất cao.
 
-Tính chuyên nghiệp không chỉ với những việc lớn mức độ phức tạp mà nó phải được thể hiện trong những việc nhỏ hàng ngày. Mục đích của sự chuyên nghiệp là tạo ra sự hoàn chỉnh, chất lượng và sự tin cậy. Những điều đó chỉ có được khi tất cả các chi tiết nhỏ nhất đều được đồng bộ, nhất quán.
+Tính chuyên nghiệp không chỉ với những việc lớn mức độ phức tạp mà nó phải được thể hiện trong những việc nhỏ hàng ngày. Mục đích của nó là tạo ra sự hoàn chỉnh, chất lượng và sự tin cậy. Những điều đó chỉ có được khi tất cả các chi tiết nhỏ nhất đều được đồng bộ, nhất quán.
 
 #### Làm sao để chúng ta đạt được điều đó?
 
@@ -26,15 +27,15 @@ Có nhiều tiêu chuẩn khác nhau để đánh giá tính chuyên nghiệp c�
 
 #### 1. Có ý thức trách nhiệm và tinh thần cầu tiến
 
-Nếu như bạn chưa có công việc hoặc bạn cảm thấy mình mãi không được tăng lưng. Thì đó có thể là bạn đang thiếu đi điều này, Trách nhiệm và tinh thần cầu tiến. Làm việc qua loa hời hợt hết giờ thì về đó không phải là những việc người chuyên nghiệp làm. Những nhà quản lý chẳng bao giờ thích nhân viên của mình có điều này cả. Cải thiện điều này giúp bạn nhanh chóng trở nên chuyên nghiệp trong công việc chuyên môn và ý chí phấn đấu.
+Nếu như bạn chưa có công việc hoặc bạn cảm thấy mình mãi không được trọng dụng. Thì đó có thể là bạn đang thiếu đi điều này đó là Trách nhiệm và tinh thần cầu tiến. Làm việc qua loa hời hợt hết giờ thì về đó không phải là tác phong của người chuyên nghiệp. Những nhà quản lý chẳng bao giờ thích nhân viên của mình có điều đó. Cải thiện điều này giúp bạn nhanh chóng trở nên chuyên nghiệp trong công việc chuyên môn phát triển và ý chí phấn đấu tăng cao.
 
 #### 2. Không ngừng học tập nâng cao chuyên môn
 
-Kỹ năng tự học được coi là một trong những kỹ năng vô giá của mỗi người. Xã hội ngày nay phát triển không ngừng, vậy nên khả năng tự học càng ngày càng được chú trọng hơn nữa. Nếu bạn ngừng học tập, thay đổi để đáp ứng những đòi hỏi của công việc thì bạn sẽ nhanh chóng bị bỏ lại và đào thải. Không những thế việc ngừng học lại làm cho tri thức của bạn giống như một thanh kiếm sắc bén nhưng lại không được mài dũa thường xuyên, dẫn tới nó sẽ bị mòn, bị cùn theo năm tháng. Học tập được gọi là xây dựng chất xám chuyên nghiệp, trình độ chuyên môn và kiến thức của bạn về các lĩnh vực mà bạn nghiên cứu là yếu tố tiên quyết giúp cho bạn thành công trên con đường của chính bạn.
+Kỹ năng tự học được coi là một trong những kỹ năng vô giá của mỗi người. Xã hội ngày nay phát triển không ngừng, vậy nên khả năng tự học càng ngày càng được chú trọng hơn nữa. Nếu bạn ngừng học tập, ngừng thay đổi để đáp ứng những đòi hỏi của công việc, của xã hội thì bạn sẽ nhanh chóng bị bỏ lại và đào thải. Không những thế việc ngừng học lại làm cho tri thức của bạn giống như một thanh kiếm sắc bén nhưng lại không được mài dũa thường xuyên, dẫn tới nó sẽ bị cùn theo năm tháng. Học tập được gọi là xây dựng chất xám chuyên nghiệp, trình độ chuyên môn và kiến thức của bạn về các lĩnh vực mà bạn nghiên cứu, đó là yếu tố tiên quyết giúp cho bạn thành công trên con đường của chính bạn.
 
 #### 3. Chuyên tâm với công việc.
 
-Học ra học, chơi ra chơi. Có thể nói đây là một trong những kỹ năng cực kỳ quan trọng góp phần giúp bạn trở nên chuyên nghiệp hơn trong công việc. Khi thực sự chuyên tâm với công việc thì bạn sẽ làm việc hiệu quả hơn. Điều này góp một phần không nhỏ trên bước đường thành công của bạn.
+Học ra học, chơi ra chơi. Có thể nói đây là một trong những kỹ năng cực kỳ quan trọng góp phần giúp bạn trở nên chuyên nghiệp hơn trong công việc. Khi thực sự chuyên tâm với công việc thì bạn sẽ làm việc hiệu quả hơn. Điều này góp một phần không nhỏ trên bước đường thành công của bạn. Để chuyên tâm hơn trong công việc thì mỗi sáng hãy lên danh sách những việc cần làm. Nếu việc lớn quá thì nên chia nỏ nó ra để có thể hoàn thành được trong một khoảng thời gian nhất định và hoàn thành nó. Đến tối hãy kiểm tra lại thành quả mà bạn đã đạt được trong ngày hôm đó. Không nhất thiết phải hoàn thành hết các công việc đã đặt ra nhưng hãy hoàn thành khoảng 80%. Đó là một hiệu xuất đáng nể đấy.
 
 #### 4. Biết cách giao tiếp và ứng xử
 
@@ -51,5 +52,5 @@ Chuyên tâm với công việc, học tập nghiêm túc không có nghĩa là 
 
 ## Kết luận
 
-Để có thái độ, tác phong chuyên nghiệp khi làm việc giúp ta nhanh chóng hướng đến đích của sự thành công thì ta phải không ngừng chui rèn thói quen, tác phong. Những điều phía trên sẽ giúp bạn vươn tới thành công. Happy coding!
+Những người chuyên nghiệp có thể không thành công nhất nhưng những người thành công nhất đều là những người thực sự chuyên nghiệp. Hãy trở thành người mà mọi công ty, tổ chức đều mong muốn. Những điều phía trên sẽ giúp bạn vươn tới thành công. Happy coding!
 
