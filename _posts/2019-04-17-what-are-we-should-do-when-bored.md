@@ -37,7 +37,7 @@ Nếu bận đi làm thì xin nghỉ nào. Bận đi học quá thì cũng ngh�
 
 ![writing-your-blog]({{ site.baseurl }}/assets/images/bored/writing-blog.jpg)
 
-Tuy không phải ai cũng viết blog hay như tôi. Nhưng viết ra tâm tư và muộn phiền trên trang cá nhân cũng là một cách để thay đổi mình và làm giảm bớt những muộn phiền. Nhật ký, suy nghĩ của mình về một vấn đề nào đó ... hãy viết hết ra. Sau này biết đâu lại viết ra sách về cuộc đời mình. Con cháu chúng nó đọc được lại chả sáng mắt. Sau này đọc lại lại thấy đó là một kỷ niệm hài hước thì sao. **Sao ngày xưa mình viết hay thế**
+Tuy không phải ai cũng viết blog hay như tôi. Nhưng viết ra tâm tư và muộn phiền trên trang cá nhân cũng là một cách để thay đổi mình và làm giảm bớt những muộn phiền. Nhật ký, suy nghĩ của mình về một vấn đề nào đó ... hãy viết hết ra. Sau này biết đâu lại viết ra sách về cuộc đời mình. Con cháu chúng nó đọc được lại chả sáng mắt. Sau này đọc lại thấy đó là một kỷ niệm hài hước thì sao. **Sao ngày xưa mình viết hay thế**
 
 #### 5. Chơi game với vài đứa bạn.
 
