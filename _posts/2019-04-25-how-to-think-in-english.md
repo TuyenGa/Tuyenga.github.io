@@ -28,7 +28,7 @@ If you use English all day every day, you'll be able to think in English as well
 
 ### How to make English a part of your daily life.
 
-[practice-time]({{ site.baseurl }}/assets/images/english/1/practice.jpeg)
+![practice-time]({{ site.baseurl }}/assets/images/english/1/practice.jpeg)
 
 It's simple. Choose to do everything in English whenever possible.
 
@@ -67,7 +67,7 @@ Here's how to do that:
 
 Do not use dictionaries that explain word meanings in your language. Use English-to-English dictionaries instead. There are dictionaries that explain word meanings in English.
 
-When you start using an English-to-English dictionary, you might run into this problem: 
+When you start using an English-to-English dictionary, you might run into this problem:
 
 1. You look up a word you don't know.
 2. The definition of word A contains another word you don't know.
