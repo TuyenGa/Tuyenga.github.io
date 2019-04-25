@@ -28,7 +28,7 @@ If you use English all day every day, you'll be able to think in English as well
 
 ### How to make English a part of your daily life.
 
-![practice-time]({{ site.baseurl }}/assets/images/english/1/practice.jpeg)
+![practice-time]({{ site.baseurl }}/assets/images/english/1/practice.jpg)
 
 It's simple. Choose to do everything in English whenever possible.
 
