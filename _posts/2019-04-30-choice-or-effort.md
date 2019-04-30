@@ -37,7 +37,7 @@ Lựa chọn là không dễ dàng nhưng để giữ vững quyết tâm ban đ
 Chẳng phải khi lựa chọn mình đã tỉnh táo cân nhắc kỹ về nó hay sao. Tại sao đến bây giờ chúng ta lại chán ghét.
 Vậy nên không phải là cần phải thay đổi sự lựa chọn mà là chính chúng ta đã thay đổi so với lúc trước.
 
-> Mỗi người đi con đường của riêng mình đều có cơ hội trải nghiệm cuộc sống theo những cách khác nhau. Được lựa chọn và theo đuổi đam mê của mình trên chính con đường đó vốn dĩ đã là món quà trân quý nhất trên cuộc đời của mỗi người đó hay sao?
+> Mỗi người đi con đường của riêng mình đều có cơ hội trải nghiệm cuộc sống theo những cách khác nhau. Được lựa chọn và theo đuổi đam mê của mình trên chính con đường đó vốn dĩ đã là món quà trân quý nhất trên cuộc đời của mỗi người.
 
 **Cuộc đời vốn dĩ không tồn tại thứ tốt nhất, lựa chọn không bạc đãi bất kỳ ai.**
 
