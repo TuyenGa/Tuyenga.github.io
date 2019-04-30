@@ -3,7 +3,6 @@ layout: post
 title: "Lựa chọn hay Nỗ lực"
 author: tuyen
 comment: false
-hidden: true
 categories: [life, diary]
 image: assets/images/life/choice-or-effort.jpg
 ---
