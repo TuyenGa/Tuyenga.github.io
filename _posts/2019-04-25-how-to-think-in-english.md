@@ -37,7 +37,7 @@ Here are some examples:
 * If you want to learn something, read English books & articles about the subject.
 * If you have hobbies or interests, browse English sites related to those intersts.
 * Change the language of your phone, computer, and TV to English.
-* Watch Hollywood movies in the original soudtrack (English).
+* Watch Hollywood movies in the original soundtrack (English).
 
 Do you get my point? If something can be done in both of English and in your native language, always **Chose to do it in English**.
 
