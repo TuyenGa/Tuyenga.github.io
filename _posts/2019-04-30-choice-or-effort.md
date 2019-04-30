@@ -2,7 +2,7 @@
 layout: post
 title: "Lựa chọn hay Nỗ lực"
 author: tuyen
-comment: false
+comments: false
 categories: [life, diary]
 image: assets/images/life/choice-or-effort.jpg
 ---
@@ -29,7 +29,7 @@ Tôi đã đưa ra cho mình một quyết định là cố gắng học tập m
 
 Không! Thực ra thì không có con đường nào hoàn toàn đúng và cũng chẳng có con đường nào hoàn toàn sai cả.
 
-*Quyết định cố gắng hết mình chẳng phải là một sự lựa chọn sao.*
+*Quyết định cố gắng hết mình chẳng phải là một sự lựa chọn hay sao.*
 
 > Đúng và sai đôi khi chỉ nằm ở chỗ sau khi lựa chọn con đường ấy thì bạn đã hoàn toàn cố gắng và nỗ lực hết mình để đi hết nó hay chưa.
 
