@@ -29,11 +29,13 @@ Tôi đã đưa ra cho mình một quyết định là cố gắng học tập m
 
 Không! Thực ra thì không có con đường nào hoàn toàn đúng và cũng chẳng có con đường nào hoàn toàn sai cả.
 
+*Quyết định cố gắng hết mình chẳng phải là một sự lựa chọn sao.*
+
 > Đúng và sai đôi khi chỉ nằm ở chỗ sau khi lựa chọn con đường ấy thì bạn đã hoàn toàn cố gắng và nỗ lực hết mình để đi hết nó hay chưa.
 
 Lựa chọn là không dễ dàng nhưng để giữ vững quyết tâm ban đầu, tiếp tục con đường đó đến cùng mới là khó khăn.
 Chẳng phải khi lựa chọn mình đã tỉnh táo cân nhắc kỹ về nó hay sao. Tại sao đến bây giờ chúng ta lại chán ghét.
-Vậy nên không phỉa là cần phải thay đổi sự lựa chọn mà là chính chúng ta đã thay đổi so với lúc trước.
+Vậy nên không phải là cần phải thay đổi sự lựa chọn mà là chính chúng ta đã thay đổi so với lúc trước.
 
 > Mỗi người đi con đường của riêng mình đều có cơ hội trải nghiệm cuộc sống theo những cách khác nhau. Được lựa chọn và theo đuổi đam mê của mình trên chính con đường đó vốn dĩ đã là món quà trân quý nhất trên cuộc đời của mỗi người đó hay sao?
 
