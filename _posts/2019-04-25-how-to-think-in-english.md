@@ -35,7 +35,7 @@ It's simple. Choose to do everything in English whenever possible.
 Here are some examples:
 
 * If you want to learn something, read English books & articles about the subject.
-* If you have hobbies or interests, browse English sites related to those intersts.
+* If you have hobbies or interests, browse English sites related to those interests.
 * Change the language of your phone, computer, and TV to English.
 * Watch Hollywood movies in the original soundtrack (English).
 
