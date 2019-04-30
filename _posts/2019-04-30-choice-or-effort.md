@@ -19,7 +19,7 @@ Không phải ai cũng dám đầu tư 5 năm đại học để rồi không bi
 
 Những thằng còn lại thì cố gắng đi học đại học, lựa chọn trường theo sở thích của mình. Theo đuổi ước mơ không dễ dàng nhưng nó là con đường đúng đắn nhưng đầy chông gai lúc đó chúng tôi có thể lựa chọn.
 
-Mỗi người đều có quyết định cho riêng mình. Thằng thì học An Ninh, thằng theo kiến trúc, kỹ sư tự động hóa. Còn tôi lúc này đã tìm hiểu và lựa chọn đi theo con đường trở thành **Kỹ sư phần mềm**. Quyết dịnh được đưa ra sau khi tôi tham khảo ý kiến của gia đình, bạn bè và người thân.
+Mỗi người đều có quyết định cho riêng mình. Thằng thì học An Ninh, thằng theo kiến trúc, kỹ sư tự động hóa. Còn tôi lúc này đã tìm hiểu và lựa chọn đi theo con đường trở thành **Kỹ sư phần mềm**. Quyết dịnh được đưa ra sau khi tôi tham khảo ý kiến của bạn bè và người thân.
 
 Thời gian trôi qua được vài năm, lúc đó là thời gian mà tôi bắt đầu hoang mang về mình và sự lựa chọn của chính mình nhất. Thằng học Trung cấp An Ninh đã ra trường và công tác tại Công An Huyện, thằng đi xuất khẩu bắt đầu xây nhà và mua xe, những thằng còn lại thì mở công ty riêng hay đi làm với mức lương cao. Thời đó mình vẫn còn ăn bám bố mẹ, chưa làm gì ra hồn. Tương lai của mình sẽ ra sao? Không biết mình có nên lựa chọn và làm lại hay không? Những câu hỏi này luôn quẩn quanh trong đầu tôi.
 
