@@ -4,7 +4,6 @@ title: "Hành động ngay!"
 author: tuyen
 comments: false
 categories: [action, change, life]
-image: assets/images/life/actions/power_of_action.jpg
 hidden: true
 ---
 
