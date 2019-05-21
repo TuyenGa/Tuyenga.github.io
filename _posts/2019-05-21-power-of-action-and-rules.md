@@ -4,9 +4,10 @@ title: "Kỷ luật và hành động"
 author: tuyen
 comments: false
 categories: [action, change, life]
+image: assets/images/life/rules_and_action/rules_and_action.jpg
 ---
 
-> Kê hoạch mà nằm trên giấy thì cũng chỉ là kế hoạch, ý tưởng mà chỉ nằm trong suy nghĩ mà không được mang ra thực hiện thì không thể trở thành hiện thực. Đừng rối bời, đừng do dự, đừng trì hoãn. Việc hôm nay chớ để ngày mai. Bịt chặt tai lại, chuyên tâm vào việc trước mắt, đừng để bị quấy nhiễu cũng đừng vội nghĩ đến kết quả. 
+> Kê hoạch mà nằm trên giấy thì cũng chỉ là kế hoạch, ý tưởng mà chỉ nằm trong suy nghĩ mà không được mang ra thực hiện thì không thể trở thành hiện thực. Đừng rối bời, đừng do dự, đừng trì hoãn. Việc hôm nay chớ để ngày mai. Bịt chặt tai lại, chuyên tâm vào việc trước mắt, đừng để bị quấy nhiễu cũng đừng vội nghĩ đến kết quả.
 
 Có thể bạn đã từng gặp những chuyện giống với câu chuyện dưới đây của tôi.
 
@@ -24,7 +25,7 @@ Không lâu sau, cậu ta từ bỏ hoàn toàn kế hoạch. Nhưng vấn đề
 
 Chuyện kinh khủng hơn là cậu ta bắt đầu lo lắng, bắt đầu oán trách, cảm thấy rõ ràng bản thân đã cố gắng rất nhiều. Đã như vậy còn tốn rất nhiều công để chuẩn bị kế hoạch. Từ đó bắt đầu cảm thấy cuộc sống không công bằng. Tại sao người khác làm được mà mình làm không được.
 
-Điều trên có thể là câu chuyện của bạn tôi nhưng đó cũng có thể là câu chuyện của cả chúng ta nữa. Điều gì đã xảy ra với anh chàng ở câu chuyện trên? 
+Điều trên có thể là câu chuyện của bạn tôi nhưng đó cũng có thể là câu chuyện của cả chúng ta nữa. Điều gì đã xảy ra với anh chàng ở câu chuyện trên?
 
 Theo tôi thấy điều anh chàng trên gặp phải đó là kế hoạch hành động sai phương pháp và không hề có tính kỷ luật.
 
