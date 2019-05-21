@@ -32,7 +32,7 @@ Vậy làm sao để xây dựng tính kỷ luật cho bản thân? Đầu tiên
 
 Hãy nhớ rằng điều duy nhất khiến chúng ta luôn luôn tốt lên chính là tính kỷ luật trong mỗi chúng ta nó giúp ta hành động theo kế hoạch đã được đặt ra và giúp chúng ta đi tìm động lực thúc đẩy con người mình.
 
-Nó hoàn toàn có thể được rèn luyện và duy trì bằng cách thay đổi bản thân và đầu tư thời gian cho nó để có thể xây dựng nó vững chắc hàng ngày. Có rất nhiều cách để rèn luyện sự kỷ luật cho chính bản thân chúng ta nhưng tôi nghĩ cách tốt nhất chính là ***Thử thách và cam kết**.
+Nó hoàn toàn có thể được rèn luyện và duy trì bằng cách thay đổi bản thân và đầu tư thời gian cho nó để có thể xây dựng nó vững chắc hàng ngày. Có rất nhiều cách để rèn luyện sự kỷ luật cho chính bản thân chúng ta nhưng tôi nghĩ cách tốt nhất chính là **Thử thách và cam kết**.
 
 Điều đó nghe có vẻ trẻ con nhưng các bạn cứ tin tôi đi. Đặt ra thử thách và cam kết. Ví dụ như những điều đơn giản nhất hàng ngày mà các bạn có thể thực hiện được đó là đặt ra thử thách ngủ sớm và dời khỏi giường lúc 5h30 sáng trong vòng 1 tháng. Điều này chẳng những giúp sức khỏe của bạn thật là tốt hơn mà nó còn mang đến cho bạn cơ hội học tập hiệu quả vào mỗi sáng sớm. Và tiếp theo ta sẽ cam kết là cho dù thế nào đi nữa thì mình cũng sẽ đi ngủ sớm và dậy sớm.
 
