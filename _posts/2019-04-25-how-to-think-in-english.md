@@ -45,7 +45,7 @@ Some people like to do everything in their native language because it's more con
 
 When you make English a part of your life. Thinking in English is easy.
 
-### Imporve your Listening and Speaking English (So that you can thing in English)
+### Imporve your Listening and Speaking English (So that you can think in English)
 
 You should spend some time each day imporving your English, especially your listening and speaking skills. There skills are very important (and difficult to improve).
 
