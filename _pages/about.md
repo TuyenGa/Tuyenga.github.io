@@ -13,6 +13,7 @@ comments: false
 <p class="lead">I'm Tuyen, a software engineer living in HaNoi, Viet Nam. I forcus on distributed systems in the <a href="https://golang.org/">Go</a> programing language.</p>
 
 <p class="lead">I prefer to write code that soles a specific, tightly-defined problem, rather than code that sloves a class of problems generally. Letter openers, not Swiss Army knives. I believe.</p>
+<p class="lead">I also want to write personal blog about my self, my family and my friends. Many times I write about technical it's boring but they can help my technical knowleage increase. I'll focus much time to write about my mean. Thank you and please enjoy it.</p>
 
 </div>
 
