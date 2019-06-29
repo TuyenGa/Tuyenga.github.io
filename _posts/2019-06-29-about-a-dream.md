@@ -18,9 +18,9 @@ Cánh cổng thứ 2 ở bên lối rẽ sang phần đầy hoa và gió. Cánh 
 
 Cả 2 người cùng đến trước mặt tôi và cùng giới thiệu về mình. Nhưng đơn giản tôi gọi là Đen và Trắng.
 
->Đen giới thiệu mình đến từ thiên đường và mong tôi theo cô ấy về đó tôi là một người tốt nên không nên đi vào địa ngục của Trắng.
+Đen giới thiệu mình đến từ thiên đường và mong tôi theo cô ấy về đó tôi là một người tốt nên không nên đi vào địa ngục của Trắng.
 
->Trắng cũng giới thiệu mình đến từ thiên đường và mong tôi đừng nghe lời quỷ dữ xui khiến.
+Trắng cũng giới thiệu mình đến từ thiên đường và mong tôi đừng nghe lời quỷ dữ xui khiến.
 
 >Đen: Sao m không để anh ấy sang bên thiên đường? Anh ấy là người tốt.
 
