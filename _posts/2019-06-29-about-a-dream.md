@@ -50,7 +50,7 @@ Một lúc sau tôi thấy trên má của trắng lấm tấm những giọt m�
 
 Giật mình nhận ra điều bất thường to lớn cô ta dừng lại và nhìn tôi với đôi mắt rắn. Tôi sợ vỡ mật tim đập chân run người chảy mồ hôi lạnh. Đầu tôi liên tục kêu gào là chạy nhanh đi. Nhưng chân tôi đã hoá đá mắt mờ đi cơ thể kiệt sức. Cô ta đến cạnh tôi và nói.
 
-Trắng: Thằng ngu, m tuy rất tốt nhưng cảm giác của t đối với m không tốt cho lắm. Tuy m chưa làm hại ai bao giờ, giúp đỡ người khác rất nhiều nhưng tội lớn nhất của m chính là ngu. Chỉ cần như vậy thôi thì m phải sang bên kia để chịu phạt rồi.
+>Trắng: Thằng ngu, m tuy rất tốt nhưng cảm giác của t đối với m không tốt cho lắm. Tuy m chưa làm hại ai bao giờ, giúp đỡ người khác rất nhiều nhưng tội lớn nhất của m chính là ngu. Chỉ cần như vậy thôi thì m phải sang bên kia để chịu phạt rồi.
 
 Bàn tay trắng trẻo giờ chỉ còn lại một bộ xương. Chiếc gậy đen hoá thành lưỡi hái.
 
