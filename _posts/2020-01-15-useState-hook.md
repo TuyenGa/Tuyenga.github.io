@@ -123,7 +123,7 @@ Trong function ta gọi trực tiếp biến `count`.
 
 Trong class, ta gọi `this.setState()` để cập nhật lại biến `count`.
 
-```js
+```javascript
   <button onClick={() => this.setState({ count: this.state.count + 1 })}>
     Click me
   </button>
@@ -131,7 +131,7 @@ Trong class, ta gọi `this.setState()` để cập nhật lại biến `count`.
 
 Trong function, ta dùng luôn hàm `setCount` và biến count để cập nhật lại chính nó mà không sử dụng `this`.
 
-```js
+```javascript
   <button onClick={() => setCount(count + 1)}>
     Click me
   </button>
@@ -141,21 +141,21 @@ Trong function, ta dùng luôn hàm `setCount` và biến count để cập nh�
 
 Bây giờ ta sẽ tóm tắt lại để kiểm tra xem ta hiểu được bao nhiêu:
 
-```js
- 1:  import React, { useState } from 'react';
- 2:
- 3:  function Example() {
- 4:    const [count, setCount] = useState(0);
- 5:
- 6:    return (
- 7:      <div>
- 8:        <p>You clicked {count} times</p>
- 9:        <button onClick={() => setCount(count + 1)}>
-10:         Click me
-11:        </button>
-12:      </div>
-13:    );
-14:  }
+```javascript
+  import React, { useState } from 'react';
+
+  function Example() {
+    const [count, setCount] = useState(0);
+
+    return (
+      <div>
+        <p>You clicked {count} times</p>
+        <button onClick={() => setCount(count + 1)}>
+         Click me
+        </button>
+      </div>
+    );
+  }
 ```
 
 - <b>Dòng 1:</b> Chúng ta import `useState` từ Hook từ React.
