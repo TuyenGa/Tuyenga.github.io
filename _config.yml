@@ -1,7 +1,7 @@
 # Site
-name: "Vuong Tuyen"
+name: "Vương Quang Tuyên"
 title: "Tuyen"
-description: "My personal blog writing about my life, my career, and my goal in the future. "
+description: "Đây là Blog cá nhân của Tuyên"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: '/'
@@ -21,7 +21,7 @@ authors:
     email: tuyenvq.cntt@gmail.com
     web: https://fb.com/vuongquangtuyen
     twitter: https://twitter.com/tuyenvq
-    description: "I'm a fullstack developer. I hope my website is good with you. Live your life."
+    description: "Xin chào! Tôi là Tuyên."
 
 # Plugins
 plugins_dir:
