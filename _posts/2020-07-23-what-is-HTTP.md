@@ -7,8 +7,6 @@ categories: [internet, how-to, backend, roadmap, protocol, HTTP, HTTPS]
 image: assets/images/roadmap/HTTP.png
 ---
 
-## HTTP là gì?
-
 HTTP(HyperText Transfer Protocol) Là giao thức truyền tải siêu văn bản. Đây là một giao thức tiêu chuẩn cho World Wide Web(WWW) để truyền tải dữ liệu âm thanh, văn bản, hình ảnh, videos từ Web Server tới trình duyệt của người dùng.
 
 ### Sơ đồ hoạt động của HTTP.
