@@ -27,7 +27,7 @@ Các máy tính nối mạng với nhau bằng giao thức TCP và kết nối �
 
 23 - Telnet (truy cập từ xa không bảo mật)
 
-25 - SMTP (gử thư điện tử)
+25 - SMTP (gửi thư điện tử)
 
 53 - DNS (gán tên miền của một máy với một địa chỉ IP)
 
