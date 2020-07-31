@@ -15,4 +15,6 @@ Authorization: Basic ZGVtbzpwQDU1dzByZA==
 
 **Note:** Because base64 is easily decoded, Basic authentication should only be used together with other security mechanisms such as HTTPS/SSL.
 
+## Describing Basic Authentication
+
 <p style="display: flex;"><img style="margin: 5px auto;" src="{{ site.baseurl }}/assets/images/roadmap/basic-authentication.png" alt="Basic Authentication" /></p>
