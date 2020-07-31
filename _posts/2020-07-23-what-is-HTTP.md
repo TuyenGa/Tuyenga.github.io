@@ -21,11 +21,11 @@ HTTP hoạt động dựa trên mô hình Client - Server. Việc truy cập web
 
 Cấu trúc một HTTP Request:
 
-- Một Request-line = Phương thức + URI-request + phiên bản HTTP. Giao thức HTTP định nghĩa một trong các phương thức GET, POST, PUT, HEAD, DELETE ... Client có thể sử dụng một trong các phương thức đó để gửi Request lên cho Server.
+- Một **Request-line = Phương thức + URI-request + phiên bản HTTP**. Giao thức HTTP định nghĩa một trong các phương thức GET, POST, PUT, HEAD, DELETE ... Client có thể sử dụng một trong các phương thức đó để gửi Request lên cho Server.
 - Có thể có hoặc không các trường Headers.
 - Một dòng trống để đánh dấu sự kiện kết thúc của các trường Header.
 
-Requesst Header Fields: Các trường header cho phép client truyền thông tin bổ xung về yêu cầu và về chính client đến server.
+**Requesst Header Fields**: Các trường header cho phép client truyền thông tin bổ xung về yêu cầu và về chính client đến server.
 
 - Tuỳ chọn Dữ liệu gửi lên.
 
@@ -39,7 +39,7 @@ Khi Request đến server thì server sẽ thực hiện một trong 3 hành đ�
 
 **HTTP-Response**
 Cấu trúc của một HTTP Response:
-- Một Status-line = Phiên bản HTTP + Mã trạng thái + Trạng thái.
+- Một **Status-line = Phiên bản HTTP + Mã trạng thái + Trạng thái**.
 - Có thể có các trường Headers.
 - Một dòng đánh dấu kết thúc sự kiện Header.
 - Dữ liệu trả về.
