@@ -22,8 +22,8 @@ image: assets/images/roadmap/oauth.png
 
 <p style="display: flex;"><img style="margin: 5px auto;" src="{{ site.baseurl }}/assets/images/roadmap/oauth2-generic-flow.png" alt="OAuth 2.0 Authentication Framework" /></p>
 
-1. Client yêu cầu quyền truy cập từ Resource Owner để truy cập vào các tài nguyên.
-2. Nếu  Resource Owner cho phép quyền truy cập này, Ứng dụng sẽ nhận được **Authorization Giant.** Đây là một chứng chỉ đại diện cho uỷ quền của Resource Owner.
+1. Client yêu cầu quyền truy cập từ **Resource Owner** để truy cập vào các tài nguyên.
+2. Nếu  **Resource Owner** cho phép quyền truy cập này, Ứng dụng sẽ nhận được **Authorization Giant.** Đây là một chứng chỉ đại diện cho uỷ quền của **Resource Owner**.
 3. Ứng dụng yêu cầu **Assess Token** bằng cách xác thực với **Authorization Server** và cấp **Authorization Giant.**
 4. Ứng dụng sau khi được xác thực thành công và cấp phép uỷ quyền hợp lệ. **Authorization Server** sẽ phát hành **Access Token** và gửi nó cho ứng dụng.
 5. Ứng dụng sẽ yêu cầu được truy cập vào tài nguyên được bảo vệ bởi **Resource Server**, và xác thực bằng **Access Token** đã được lấy trước đó.
