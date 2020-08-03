@@ -20,7 +20,7 @@ comments: false
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<h5>Tuyen Vuong</h5>
+<h5>{{site.name}}</h5>
 
 <p>Cảm ơn bạn đã xem.</p>
 
