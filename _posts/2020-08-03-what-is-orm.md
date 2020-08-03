@@ -30,7 +30,7 @@ Có một số persistent framework và các tuỳ chọn ORM trong Java. Một 
 
 ---
 
-## Tại sao lại sử dụng ORM  (Object-Relational Mapping)
+## Tại sao lại sử dụng ORM (Object-Relational Mapping)
 
 Khi chúng ta làm việc với một hệ thống **OOP,** có một sự không khớp giữa mô hình đối tượng và cơ sở dữ liệu quan hệ. RDBMS thể hiện dữ liệu trong một định dạng bảng, trong khi các ngôn ngữ hướng đối tượng thể hiện nó như một đồ thị kết nối của các Object. Xem xét lớp Java sau đây với constructor phù hợp và phương thức public liên quan:
 
