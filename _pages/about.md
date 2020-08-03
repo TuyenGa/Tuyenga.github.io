@@ -8,7 +8,7 @@ comments: false
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p><img class="shadow-lg" src="{{site.baseurl}}/assets/images/avatar.jpg" alt="avatar" width="200"/></p>
+<img class="shadow-lg" style="margin-right: 24px;border-radius: 50%;" src="{{site.baseurl}}/assets/images/avatar.jpg" alt="avatar" width="200" align="left"/>
 
 <p class="lead">Tôi là Tuyên một Lập trình viên đang làm việc ở Hà Nội. Hiện tại tôi đang tập trung vào ngôn ngữ <a href="https://golang.org/">Go</a>.</p>
 
