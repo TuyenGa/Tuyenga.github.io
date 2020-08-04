@@ -3,7 +3,7 @@ layout: "post"
 title: "Hibernate là gì?"
 author: tuyen
 comments: false
-categories: [internet, how-to, backend, roadmap, ORMs, Object, database, mapping]
+categories: [internet, how-to, backend, roadmap, Object, database, mapping]
 image: assets/images/roadmap/ORM/hibernate.png
 ---
 Hibernate ra đời năm 2001 bởi nhà sáng lập Gavin King như một sự thay thế cho EJB2 kiểu thực thể Bean. Hiện nay, phiên bản mới nhất của Hibernate là Hibernate ORM 5.4.19.Final.
