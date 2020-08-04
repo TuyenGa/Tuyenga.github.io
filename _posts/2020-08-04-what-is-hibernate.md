@@ -15,8 +15,6 @@ Hibernate là một giải pháp ORM mã nguồn mở, gọn nhẹ. Hibernate gi
 
 Tool ORM giúp đơn giản hoá việc tạo ra, thao tác và truy cập dữ liệu. Đó là một kỹ thuật lập trình để ánh xạ đối tượng được lưu trữ vào trong cơ sở dữ liệu.
 
----
-
 ## Lợi ích của việc sử dụng Hibernate
 
 Hibernate Framework có một số lợi ích sau đây:
@@ -27,8 +25,6 @@ Hibernate Framework có một số lợi ích sau đây:
 4. **Tạo bảng tự động:** Hibernate cung cấp phương tiện để tạo ra các bảng cơ sở dữ liệu tự động. Vì vậy, không cần phải tạo ra các bảng trong cơ sở dữ liệu bằng tay.
 5. **Đơn giản lệnh join phức tạp:** Có thể lấy dữ liệu từ nhiều bảng một cách dễ dàng với Hibernate.
 6. **Cung cấp thống kê truy vấn và trạng thái cơ sở dữ liệu:** Hibernate hỗ trợ bộ nhớ cache truy vấn và cung cấp số liệu thống kê về truy vấn và trạng thái của cơ sở dữ liệu.
-
----
 
 ## Các Database được hỗ trợ
 
@@ -43,8 +39,6 @@ Hibernate hỗ trợ hầu hết tất cả các Database chính. Dưới đây 
 - Microsoft SQL Server Database
 - Sybase SQL Server
 - Informix Dynamic Server
-
----
 
 ## Các công nghệ được hỗ trợ
 

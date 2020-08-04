@@ -3,7 +3,7 @@ layout: post
 title: "ORM là gì?"
 author: tuyen
 comments: false
-categories: [internet, how-to, backend, roadmap, ORMs, Object, database, mapping]
+categories: [internet, how-to, backend, roadmap, ORMs, Object, database, mapping]
 image: assets/images/roadmap/ORM/ormapping.png
 ---
 
@@ -27,8 +27,6 @@ Có một số persistent framework và các tuỳ chọn ORM trong Java. Một 
 - Spring DAO
 - Hibernate
 - And many more
-
----
 
 ## Tại sao lại sử dụng ORM (Object-Relational Mapping)
 
@@ -77,7 +75,5 @@ create table EMPLOYEE (
 Vấn đề đầu tiên, nếu ta cần phải sửa đổi thiết kế cơ sở dữ liệu của chúng ta sau khi đã phát triển một vài trang của website hoặc ứng dụng? Thứ hai, việc tải và lưu trữ các đối tượng trong một cơ sở dữ liệu quan hệ làm cho chúng ta gặp một số vấn đề không khớp.
 
 <p style="display: flex;"><img style="margin: 5px auto;" src="{{ site.baseurl }}/assets/images/roadmap/ORM/cac-van-de.png" alt="Các vấn đề không khớp giữa Ngôn ngữ lập trình và RADBMS" /></p>
-
----
 
 **ORM (Object Relational Mapping)** là một giải pháp giải quyết các vấn đề trên.
