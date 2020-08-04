@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ORM là gì?"
+title: "Hibernate là gì?"
 author: tuyen
 comments: false
 categories: [internet, how-to, backend, roadmap, ORMs, Object, database, mapping]
