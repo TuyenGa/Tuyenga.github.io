@@ -6,7 +6,6 @@ comments: false
 categories: [internet, how-to, backend, roadmap, ORMs, Object, database, mapping]
 image: assets/images/roadmap/ORM/ormapping.png
 ---
-
 **ORM (Object-Relational Mapping)** là một kỹ thuật lập trình để chuyển đổi dữ liệu giữa các cơ sở dữ liệu quan hệ và các ngôn ngữ lập trình hướng đối tượng như Java, C# ... Một hệ thống ORM có những ưu điểm sau:
 
 <p style="display: flex;"><img style="margin: 5px auto;" src="{{ site.baseurl }}/assets/images/roadmap/ORM/uu-diem.png" alt="Ưu điểm của hệ thống ORM" /></p>
