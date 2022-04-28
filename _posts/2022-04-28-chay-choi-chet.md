@@ -15,8 +15,7 @@ Chẳng biết từ bao giờ tôi đã học được cách chạy. Chạy mỗ
 Năm cấp 2 khi học thể dục cô giáo có cho học chạy. Chạy nhanh, chạy bền. Chạy nhanh thì phải tăng tốc hết sức trong 100m, 200m. Chạy bền thì phải giữ sức để có thể hoàn thành hoặc chiến thắng trong cuộc đua. Mỗi một kiểu chạy đều có chiến lược để dành được thành tích tốt hơn. Để có được điều đó thì cần trải qua nhiều giờ luyện tập và thay đổi chiến lược cho phù hợp với mỗi người.
 
 ![Chạy trốn hiện thực và áp lực công việc.](/assets/images/life/chay-tron-ap-luc.jpeg)
-
-Chạy trốn hiện thực và áp lực công việc.
+_Chạy trốn hiện thực và áp lực công việc._
 
 Chân ướt chân ráo bước ra cuộc đời, tôi bắt đầu phải chạy, chạy mỏi cả chân, chạy ong cả đầu vì những giờ tăng ca từ ngày qua đêm rồi lại đến sáng. Hơn 3 năm làm việc tại công ty cũ không biết bao nhiêu lần tăng ca, nhiều đến mức tôi quên thời gian dành cho gia đình, quên thời gian dành cho bản thân, quên luôn thời gian dành cho người tôi yêu. Cứ nghĩ cống hiến hết mình thì sẽ nhận về những thành quả xứng đáng nhưng không. Gia đình vẫn luôn bên cạnh sau tất cả nhưng mối tình gắn bó hơn ba năm vỡ tan dưới những áp lực phải thành công. Một sự đánh đổi không xứng đáng, không phải vì cuộc đua với đời mà bởi vì mình không trân trọng những gì đang có.
 
